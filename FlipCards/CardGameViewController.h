@@ -10,4 +10,15 @@
 
 @interface CardGameViewController : UIViewController
 
+@property (strong, nonatomic) UIWindow *window;
+
 @end
+
+
+//
+//NSMutableArray *numberCount;
+//NSValue *aCount = [NSNumber numberWithInt:2];
+//
+//numberCount = [NSArray arrayWithObjects:aCount]
+
+
